@@ -1,0 +1,18 @@
+root: true
+
+plugins:
+  - jest
+  - babel
+
+env:
+  node: true
+  jest: true
+  browser: true
+
+
+extends:
+  - "airbnb-base"
+
+rules:
+  no-console: 0
+  import/extensions: 0
