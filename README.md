@@ -1,5 +1,3 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/flickystyle/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/flickystyle/frontend-project-11/actions)
 
 [![Linter Status](https://github.com/flickystyle/frontend-project-11/workflows/Node_CI/badge.svg)](https://github.com/flickystyle/frontend-project-11/actions)
 
